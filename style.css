@@ -7,10 +7,8 @@ body {
     overflow: hidden;
     background-color: rgb(172, 181, 236);
     color: rgba(0, 6, 11, 0.984);
-
     font-family: "Ubuntu", sans-serif;
 
-    font-family: "Roboto", sans-serif;
   }
   
   .jogo-container {
@@ -20,7 +18,6 @@ body {
   }
   
   .forca {
-    fill: transparent;
     stroke: rgb(206, 13, 13);
     stroke-width: 4px;
     stroke-linecap: round;
