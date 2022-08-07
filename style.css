@@ -5,8 +5,8 @@ body {
     width: 100vw;
     height: 100vh;
     overflow: hidden;
-    background-color: #222;
-    color: aliceblue;
+    background-color: rgb(172, 181, 236);
+    color: rgba(0, 6, 11, 0.984);
 
     font-family: "Ubuntu", sans-serif;
 
@@ -21,7 +21,7 @@ body {
   
   .forca {
     fill: transparent;
-    stroke: #fff;
+    stroke: rgb(206, 13, 13);
     stroke-width: 4px;
     stroke-linecap: round;
   }
@@ -70,14 +70,13 @@ body {
     bottom: 0;
     left: 0;
     right: 0;
-    /* display: flex; */
     display: none;
     align-items: center;
     justify-content: center;
   }
   
   .popup {
-    background: #2980b9;
+    background: rgb(172, 181, 236);
     border-radius: 5px;
     box-shadow: 0 15px 10px 3px rgba(0, 0, 0, 0.1);
     padding: 20px;
